@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
 import moment from 'moment';
-import ExampleComponent from './ExampleComponent'
+
 import TestComponent from './TestComponent'
+import ExampleComponent from './ExampleComponent'
 
 // Add your code own within the return statement
 
